@@ -1,6 +1,6 @@
 # Brax Exploration
 
-Base on the original JAX Implementation of BRAX, I re-implement the Ant environment in PyTorch for profiling kernel usgae on GPU
+Base on the original JAX implementation of BRAX, I re-implement the Ant environment in PyTorch for profiling kernel usgae on GPU under JAX and PyTorch.
 
 Link to BRAX:\
 https://github.com/google/brax
